@@ -12,4 +12,6 @@ const runApp = () => {
     controller.init();
 };
 
+console.log('1');
+
 runApp();
